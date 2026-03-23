@@ -1,0 +1,11 @@
+insert,0,90
+insert,1,10
+remove,4
+insert,2,50
+insert,3,30
+insert,4,20
+get,2
+remove,2
+print,0
+print,1
+
